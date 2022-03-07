@@ -34,6 +34,8 @@ https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-Ho
 
 https://leetcode.com/discuss/general-discussion/1000929/solved-all-dynamic-programming-dp-problems-in-7-months
 
+https://codeforces.com/blog/entry/91363
+
 https://leetcode.com/discuss/general-discussion/1000929/solved-all-dynamic-programming-dp-problems-in-7-months
 
 https://leetcode.com/discuss/general-discussion/1000929/solved-all-dynamic-programming-dp-problems-in-7-months
